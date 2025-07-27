@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ee4210-b88f-4f74-a364-7d9b1665fffe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/component/NavBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/component/ResumeCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/component/ScoreCircle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/auth.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bg.main.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/puter.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/component/FileUploader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/pdfToImg.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/component/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/component/NavBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/constants/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lib/puter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752907788718</updated>
       <workItem from="1752907789617" duration="11603000" />
-      <workItem from="1752934018974" duration="10932000" />
+      <workItem from="1752934018974" duration="42631000" />
     </task>
     <servers />
   </component>
